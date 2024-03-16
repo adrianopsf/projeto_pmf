@@ -6,7 +6,6 @@
 - Disponibilizar os melhores papéis baseados nas estratégias abordadas
 
 ## Pipeline do projeto
-![image](https://github.com/adrianopsf/projeto-pmf/assets/11616667/30dcc978-d731-4239-a494-76b7dc0a25e5)
 
 - Fonte dos dados: consumo de dados via API da Yahoo Finance dos papéis inseridos via webscrapping da carteira do [Valor Econômico](https://infograficos.valor.globo.com/carteira-valor/) (10 papéis mais indicados por diversas corretoras)
 - Extração: fazer a conexão da API via Python e os arquivos obtidos pelo webscrapping devem ser tratados via contrato de dados para garantir a inserção correta.
@@ -18,10 +17,7 @@
 - Controle: todos os códigos e versionamentos serão disponibilizados no repositório Projeto PMF no GitHub. Também será desenvolvido um bot via Telegram que irá acompanhar as etapas da orquestração para monitorar se as etapas estão sendo executadas corretamente.
 - Governança: a governança do projeto será realizado via Datahub.
 
-## Fluxograma do projeto
-![image](https://github.com/adrianopsf/projeto-pmf/assets/11616667/017d26b2-73f6-48e1-b1aa-f9e019fe1a61)
-
-### Instalação do projeto
+## Instalação do projeto
 
 1. Clone o repositório:
 ``` bash
